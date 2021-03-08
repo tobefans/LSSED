@@ -1,9 +1,6 @@
 # LSSED
 The dataset of the paper "LSSED: A Large-Scale Dataset and Benchmark for Speech Emotion Recognition".
 
-## The dataset will be released soon.
-
-
 ## Dataset
 In view of copyright reasons, researchers who are interested in applying for this dataset, please contact Prof. Xing or Dr. Fan by email.
 
