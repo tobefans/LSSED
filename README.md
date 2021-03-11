@@ -5,7 +5,7 @@ The dataset of the paper "LSSED: A Large-Scale Dataset and Benchmark for Speech 
 In view of copyright reasons, researchers who are interested in applying for this dataset, please contact Prof. Xing or Dr. Fan by email.
 
 ## Pre-trained models
-Our pre-trained models are released [here](https://onedrive.live.com/?authkey=%21ACsmcyDUBU%5FJqOQ&id=B2C03030A7C7F63F%211204&cid=B2C03030A7C7F63F). It contains three versions of PyResNet, with ResNet50, ResNet101 or ResNet152 as the backbone respectively.
+Our pre-trained models are released [here](https://mailscuteducn-my.sharepoint.com/:f:/g/personal/202010102065_mail_scut_edu_cn/EgPsDi-OUalFmQTgmuxaOTIBZuFGqSXvpbwQo2JA_h3UKw?e=ufh4A7)(password: SCUTLAB626). It contains three versions of PyResNet, with ResNet50, ResNet101 or ResNet152 as the backbone respectively.
 
 The import and use of the pre-trained model are as follows:
 ```
