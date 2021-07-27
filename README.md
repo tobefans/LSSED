@@ -26,5 +26,3 @@ model_ft.fc = nn.Linear(num_fc_ftr, num_class)
 
 ## Contact
 Prof. Xing: xfxing@scut.edu.cn
-
-Dr. Fan: weiquan.fan96@gmail.com
